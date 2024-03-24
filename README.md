@@ -1,1 +1,0 @@
-This is ALX backend python scripts and modules.
